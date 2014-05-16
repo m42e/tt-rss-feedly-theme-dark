@@ -438,7 +438,7 @@ img.tinyFeedIcon  {
 /* SKINNING ************************************************************/
 
 html {
-	color: #444;
+	color: #2D2D2D;
 }
 a {
 	color: #5b4;
@@ -505,7 +505,7 @@ a:hover {
 #main,
 #feeds-holder,
 #main #headlines-wrap-inner .dijitSplitter {
-	background: #eee;
+	background: #2D2D2D;
 }
 #header-wrap,
 #content-wrap,
@@ -528,7 +528,7 @@ a:hover {
 	border-color: transparent;
 	background-color: transparent;
 	box-shadow: none;
-	color: #b2b2b2;
+	color: #444;
 	transition: color .2s;
 }
 #main #content-wrap .dijitSelectHover .dijitButtonContents,
@@ -680,12 +680,12 @@ a:hover {
 	max-width: 100%;
 	border: 0;
 	background: transparent;
-	color: #909090;
+	color: #ddd;
 	text-overflow: ellipsis;
 	transition: color .2s;
 }
 #feeds-holder .dijitTreeRowSelected {
-	color: #222;
+	color: #fff;
 	transition: none;
 }
 #feeds-holder .dijitTreeLabel.Unread {
