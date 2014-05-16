@@ -583,7 +583,7 @@ a:hover {
 	background: #e5e5e5;
 }
 #overlay_inner .dijitProgressBarLabel {
-	color: #2D2D2D;
+	color: #444;
 	font-weight: bold;
 }
 .labelColorIndicator,
@@ -592,7 +592,7 @@ a:hover {
 	display: inline-block;
 	border-radius: 99px;
 	background-color: #fec;
-	color: #2D2D2D;
+	color: #444;
 	font-weight: bold;
 }
 .labelColorIndicator,
